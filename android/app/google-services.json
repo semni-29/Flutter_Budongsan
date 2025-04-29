@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513239031410",
+    "project_id": "budongsan-flutter",
+    "storage_bucket": "budongsan-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513239031410:android:1fd837a8626bdb7e14eceb",
+        "android_client_info": {
+          "package_name": "com.example.mybudongsan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-EpwG70va-_rudwOoQy_dfVBuORKMu5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
