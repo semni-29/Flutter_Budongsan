@@ -1,7 +1,25 @@
 # mybudongsan
 - 부동산 실거래가 조회 플러터 앱 만들기
-- 개발언어 : Dart, Flutter
-- 개발환경 : Android Studio, Firebase, Google Cloud Platform
+
+## 시작가이드
+- **개발언어 및 환경** : Dart, Flutter, Android Studio, Firebase, Google Cloud Platform
+   ```
+   Flutter 3.29.3
+   Dart 3.7.2
+   ```
+- **pacakage**
+   ```
+   firebase_core: ^3.13.0
+   firebase_analytics: ^11.4.5
+   firebase_crashlytics: ^4.3.5
+   firebase_ui_firestore: ^1.7.1
+   connectivity_plus: ^4.0.2
+   google_maps_flutter: ^2.3.1
+   dart_geohash: ^2.1.0
+   cloud_firestore: ^5.6.7
+   rxdart: ^0.28.0
+   shared_preferences: ^2.5.3
+   ```
 
 ## 0. 기획단계
 - ① 부동산 앱의 목적과 기능 정의하기
