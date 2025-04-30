@@ -2,7 +2,7 @@
 - 부동산 실거래가 조회 플러터 앱 만들기
 
 ## 시작가이드
-- **개발언어 및 환경** : Dart, Flutter, Android Studio, Firebase, Google Cloud Platform
+- **개발언어 및 환경** : Flutter, Dart, Android Studio, Firebase, Google Cloud Platform, Figma
    ```
    Flutter 3.29.3
    Dart 3.7.2
